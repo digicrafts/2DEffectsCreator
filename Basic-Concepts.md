@@ -1,8 +1,8 @@
 **2DFX Shader Editor** is a node-based shader editor. You can create shader by connecting nodes with wires. It is a visual editor and no coding is needed. There is a core node called _“Sprite Shader”_ in each graph. This node specifies the features supported in the shader represent by this graph.
 
-![](images/0_1.png) 
-
 Sprite Shader Node
+
+![](images/0_1.png) 
 
 _“Sprite Shader”_ node have an input RGBA, this specify the final output color of the shader. You can connect RGBA output port from other node to specify the output color of the shader.
 
