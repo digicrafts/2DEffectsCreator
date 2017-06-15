@@ -7,3 +7,5 @@
 [4. User Interface](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
 
 [5. Mouse Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
+
+[6. Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
