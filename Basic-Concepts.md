@@ -1,4 +1,4 @@
-**2DFX Shader Editor** is a node-based shader editor. You can create shader by connecting nodes with wires. It is a visual editor and no coding is needed. There is a core node called _“Sprite Shader”_ in each graph. This node specifies the features supported in the shader represent by this graph.
+**2D Effects Shader Editor** is a node-based shader editor. You can create shader by connecting nodes with wires. It is a visual editor and no coding is needed. There is a core node called _“Sprite Shader”_ in each graph. This node specifies the features supported in the shader represent by this graph.
 
 Sprite Shader Node
 
