@@ -2,7 +2,7 @@ Video Tutorial
 
 [![](images/quickstart_video.png)](http://www.youtube.com/watch?v=HrOmOtU9fCw "Quick Start")
 
-In this guide, you can learn the basic steps to create shader using **2DFX Shader Editor** and the steps for using it on your scene object.
+In this guide, you can learn the basic steps to create shader using **2D Effects Shader Editor** and the steps for using it on your scene object.
 
 1.	Create the shader file. From the main menu or right click on the project window, select **Assets>Create>Shader>2D Shader Effect**.
 
