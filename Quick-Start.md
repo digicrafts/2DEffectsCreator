@@ -1,6 +1,6 @@
 Video Tutorial
 
-[![](images/quickstart_video.png)](http://www.youtube.com/watch?v=HrOmOtU9fCw "Quick Start")
+[![](images/quickstart_video.png)](https://youtu.be/Af-0rHRiKIY "Quick Start")
 
 In this guide, you can learn the basic steps to create shader using **2D Effects Shader Editor** and the steps for using it on your scene object.
 
