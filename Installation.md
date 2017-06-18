@@ -12,7 +12,7 @@
 
 ![](images/1_3.png)
 
-5. Open 2DFX Shader Editor from menu Window>2D Shader Editor.
+5. Open **2D Effects Shader Editor** from menu Window>2D Shader Editor.
 
 ![](images/1_4.png)
 
