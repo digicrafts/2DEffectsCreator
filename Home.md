@@ -1,4 +1,4 @@
-![](/images/main.jpg)
+![](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/images/main.jpg)
 
 [1. Introduction](https://github.com/digicrafts/2DFXShaderEditor/wiki/Introduction)
 
