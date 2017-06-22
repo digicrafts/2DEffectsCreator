@@ -1,4 +1,4 @@
-**2D Effects Shader Editor** provides keyboard shortcut to enhanced workflow. You can find the shortcuts in below table.
+**2D Effects Shader Editor** provides keyboard shortcut to enhancing shader creation workflow. You can find the shortcuts below.
 
 | Shortcuts                | Description                            |
 |--------------------------|----------------------------------------|
