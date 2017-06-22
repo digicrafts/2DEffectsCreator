@@ -4,6 +4,8 @@
 |--------------------------|----------------------------------------|
 | Left Mouse Button + Drag | Select node or wire with box selection |
 | Right Mouse Button Drag  or “Space” Key + Drag | Pan and navigating the graph |
+| COMMAND/WIN + "L" | Open 2D shader editor |
+| COMMAND/WIN + Return | Toggle maximum window |
 | “D” Key	| Open node's inspector |
 | “F" Key	| Focus selected nodes or focus all nodes if no node selected |
 | “N” Key or Control + LMB	| Open create node context menu |
