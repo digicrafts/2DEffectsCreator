@@ -8,18 +8,18 @@ Flexible and powerful node-based system let you create AAA quality 2D effect wit
 
 **Highlighted Features**
 
-- Unity 5.4+ support
 - Node-based 2D shader effect editor
 - Easy, clean and integrated UI
 - Suitable for beginner to pro user
 - 40+ Color and distort effects
 - 20+ Procedural shapes
 - 100+ Basic operator and logic nodes
-- Animation node
+- Pure shader animation
 - Support unlit and surface shader
 - Work with 2D Sprite and Unity UI
 - One-click shader save and update
 - Keyboard Shortcuts
-- Produce independent shader works without 2D Effects Shader Editor installed
-- Pure shader effect 
+- Produce independent shader* works without 2D Effects Shader Editor installed
+- Tested on Unity 5.4, 5.5 and 5.6
+
 (*SpriteHelper script needed for shaders to work with multiple sprite atlas. The script is included)
