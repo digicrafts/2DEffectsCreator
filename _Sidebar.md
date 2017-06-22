@@ -1,3 +1,5 @@
+![](https://github.com/digicrafts/2DEffectsShaderEditorNodes/wiki/images/logo.png)
+
 [1. Introduction](https://github.com/digicrafts/2DFXShaderEditor/wiki/Introduction)
 
 [2. Installation](https://github.com/digicrafts/2DFXShaderEditor/wiki/Installation)
@@ -11,3 +13,9 @@
 [6. Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
 
 [7. Node's Wiki](https://github.com/digicrafts/2DFXShaderEditorNodes/wiki/Introduction)
+
+****
+
+[Asset Store Link](http://u3d.as/QoP)
+
+[Website](http://www.digicrafts.com.hk)
