@@ -10,9 +10,12 @@
 
 [The Editor UI](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
 
+[Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
+
+[Examples](https://github.com/digicrafts/2DFXShaderEditor/wiki/Examples)
+
 [Mouse/Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
 
-[Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
 
 [Node's Wiki](https://github.com/digicrafts/2DFXShaderEditorNodes/wiki/Introduction)
 
