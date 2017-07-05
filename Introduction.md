@@ -6,6 +6,8 @@ Flexible and powerful node-based system let you create AAA quality 2D effect wit
 
 **2D Effects Shader Editor** provides plenty of nodes range from basic operators to special color and distortion effects. This selection of nodes allows you to create shader effect with maximum creativity. The package also comes with plenty of examples to kick-start your learning.
 
+![](images/screenshot1.png)
+
 **Highlighted Features**
 
 - Node-based 2D shader effect editor
