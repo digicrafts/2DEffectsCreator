@@ -14,6 +14,7 @@ What’s News in version 1.1
 -  **ColorMaskAB** Masking effect with two colors input. Output will leap between input A and B with the masking value.
 -  **Comments** A resizable node which can add comments and group other nodes.
 -  **Chroma Key** Replace color with backdrop color.
+-  **PI Constant** Add PI constant to shader.
 -  **AND** and **OR** operator node
 -  **AND(&&)** and **OR(||)** logic node
 
