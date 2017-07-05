@@ -1,15 +1,19 @@
 ![](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/images/main.jpg)
 
-[1. Introduction](https://github.com/digicrafts/2DFXShaderEditor/wiki/Introduction)
+2D Effects Shader Editor is a node-based shader creation tool for creating 2D shader effect that work with 2D sprite and Unity UI. It is tightly and seamlessly integrated with Unity’s UI. This integrated solution provides a familiar and consistent development environment for your shader creation workflow.
 
-[2. Installation](https://github.com/digicrafts/2DFXShaderEditor/wiki/Installation)
+[What's New?](https://github.com/digicrafts/2DFXShaderEditor/wiki/Whats-new)
 
-[3. Basic Concepts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Basic-Concepts)
+[Introduction](https://github.com/digicrafts/2DFXShaderEditor/wiki/Introduction)
 
-[4. User Interface](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
+[Installation](https://github.com/digicrafts/2DFXShaderEditor/wiki/Installation)
 
-[5. Mouse Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
+[Basic Concepts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Basic-Concepts)
 
-[6. Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
+[User Interface](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
 
-[7. Node's Wiki](https://github.com/digicrafts/2DFXShaderEditorNodes/wiki/Introduction)
+[Mouse Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
+
+[Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
+
+[Node's Wiki](https://github.com/digicrafts/2DFXShaderEditorNodes/wiki/Introduction)
