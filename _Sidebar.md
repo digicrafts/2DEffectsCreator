@@ -1,14 +1,16 @@
 ![](https://github.com/digicrafts/2DEffectsShaderEditorNodes/wiki/images/logo.png)
 
+[What's New?](https://github.com/digicrafts/2DFXShaderEditor/wiki/Whats-New)
+
 [Introduction](https://github.com/digicrafts/2DFXShaderEditor/wiki/Introduction)
 
 [Installation](https://github.com/digicrafts/2DFXShaderEditor/wiki/Installation)
 
 [Basic](https://github.com/digicrafts/2DFXShaderEditor/wiki/Basic-Concepts)
 
-[Editor UI](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
+[The Editor UI](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
 
-[Mouse Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
+[Mouse/Keyboard Shortcuts](https://github.com/digicrafts/2DFXShaderEditor/wiki/Mouse-Keyboard-Shortcuts)
 
 [Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
 
