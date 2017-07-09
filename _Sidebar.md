@@ -19,7 +19,7 @@ Advanced Topics
 
 - [Work with Multiple Sprite](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/Working-with-multiple-sprite-texture-atlas)
 
-- [Comments Node](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/Comments-Node)
+- [Comments Node](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/Using-Comments-Node)
 
 - [Enable Lighting Support](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/Enable-Lighting-Support)
 
