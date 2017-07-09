@@ -1,3 +1,13 @@
-Sometimes a sprite texture contains just a single graphic element but it is often more convenient to combine several related graphics together into a single image. For example, the image could contain component parts of a single character, as with a car whose wheels move independently of the body. 
+Unity provide a Multiple Sprite Mode in using sprite image. It allows multiple images combined into a single image. But the UV coordinate is different from the normal single image sprite. Some effects which base on uv coordinate may be have problem (e.g. clipping effect will clip image base on UV).
 
-Unity provide a Multiple Sprite Mode in using sprite image. It allows multiple images combined into a single image. But the UV coordinate is different from the normal single image sprite. Some effects which base on uv coordinate may have problem.
+![](images/multiple_sprite_1.png)
+
+**2D Effects Shader Editor** provide a workaround for this situation. It provide a option to calcaulate the correct uv. Ana provide a c# script to work with the situation.
+
+To use with Mutiple Sprite, you can enable the Mutiple Sprite Mode in the shader option. 
+
+![](images/multiple_sprite_2.png)
+
+Then attach the provided SpriteHelper to the GameObject which using the sprite.
+
+![](images/multiple_sprite_3.png)
