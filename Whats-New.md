@@ -1,3 +1,17 @@
+What’s News in version 1.1.2
+====
+
+**[New Features]**
+- HDR Color Support in Color Property Node
+- Add maximum window button in toolbar
+
+**[Bug Fix]**
+- Improve toolbar button icons
+- Shader blend mode “Additive” change to “SrcAlpha One”
+- Node size of Texture Property Node
+- Left drag on node will move the canvas and node together
+- Fix “Lighting” example
+
 What’s News in version 1.1
 ====
 **[New Features]**
