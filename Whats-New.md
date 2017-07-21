@@ -12,6 +12,22 @@ What’s News in version 1.1.2
 - Left drag on node will move the canvas and node together
 - Fix “Lighting” example
 
+
+What’s News in version 1.1.1 
+====
+
+**[Bug fix]**
+- Compile error when GrabPass connection deleted
+- When a node selected, can’t switch editor by click on tab
+- Can’t drag node if right click on the canvas
+
+**[Improvements]**
+- Improving wire connecting experience
+- Improving icon image quality in toolbar
+- Improving node graph images design (Pro/Personal skin)
+- Editor images resource path is not hardcoded (Can move the plugin folder anywhere)
+
+
 What’s News in version 1.1
 ====
 **[New Features]**
