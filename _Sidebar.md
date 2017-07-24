@@ -10,8 +10,9 @@
 
 - [The Editor UI](https://github.com/digicrafts/2DFXShaderEditor/wiki/User-Interface)
 
-[Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
-
+Tutorials
+- [Quick Start](https://github.com/digicrafts/2DFXShaderEditor/wiki/Quick-Start)
+- [Radial Bar UI](https://github.com/digicrafts/2DFXShaderEditor/wiki/Creating-Radial-Bar-UI)
 
 Advanced Topics
 
