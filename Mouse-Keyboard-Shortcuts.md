@@ -1,10 +1,10 @@
-**2D Effects Shader Editor** provides keyboard shortcut to enhancing shader creation workflow. You can find the shortcuts below.
+**2D Effects Creator** provides keyboard shortcut to enhancing shader creation workflow. You can find the shortcuts below.
 
 | Shortcuts                | Description                            |
 |--------------------------|----------------------------------------|
 | Left Mouse Button + Drag | Select node or wire with box selection |
 | Right Mouse Button Drag  or “Space” Key + Drag | Pan and navigating the graph |
-| Command/WIN + "L" (&#x2318;+L)| Open 2D shader editor |
+| Command/WIN + "L" (&#x2318;+L)| Open creator window |
 | Command/WIN + Return(&#x2318; + &#x23ce;) | Toggle maximum window |
 | “D” Key	| Open node's inspector |
 | “F" Key	| Focus selected nodes or focus all nodes if no node selected |

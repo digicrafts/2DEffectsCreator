@@ -1,4 +1,4 @@
-When a shader being complex, the number of nodes may increase and make the graph not easy to read. **2D Effects Shader Editor** provide a simple and useful node to manage the nodes - _comments node_. You can group several nodes in the comments node and add comments on it.
+When a shader being complex, the number of nodes may increase and make the graph not easy to read. **2D Effects Creator** provide a simple and useful node to manage the nodes - _comments node_. You can group several nodes in the comments node and add comments on it.
 
 ![](images/commentsnode_1.png)
 

@@ -2,7 +2,7 @@ Unity provide a [**Multiple Sprite Mode**](https://docs.unity3d.com/Manual/Sprit
 
 ![](images/multiple_sprite_1.png)
 
-**2D Effects Shader Editor** provide a workaround for this situation. It provide an option to calcaulate the correct uv. By enable the option and using the included c# script (SpriteHelper.cs), it will pass the correct uv in multiple sprite mode.
+**2D Effects Creator** provide a workaround for this situation. It provide an option to calcaulate the correct uv. By enable the option and using the included c# script (SpriteHelper.cs), it will pass the correct uv in multiple sprite mode.
 
 ![](images/multiple_sprite_2.png)
 

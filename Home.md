@@ -1,6 +1,6 @@
 ![](https://github.com/digicrafts/2DEffectsShaderEditor/wiki/images/main.jpg)
 
-2D Effects Shader Editor is a node-based shader creation tool for creating 2D shader effect that work with 2D sprite and Unity UI. It is tightly and seamlessly integrated with Unity’s UI. This integrated solution provides a familiar and consistent development environment for your shader creation workflow.
+**2D Effects Creator** is a node-based shader creation tool for creating 2D shader effect that work with 2D sprite and Unity UI. It is tightly and seamlessly integrated with Unity’s UI. This integrated solution provides a familiar and consistent development environment for your shader creation workflow.
 
 [What's New?](https://github.com/digicrafts/2DFXShaderEditor/wiki/Whats-New)
 

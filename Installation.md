@@ -1,10 +1,10 @@
-1. Download and import the **2D Effects Shader Editor** from Asset Store.
+1. Download and import the **2D Effects Creator** from Asset Store.
 
-2. The plug-in is located in Digicrafts/2DEffectsShaderEditor.
+2. The plug-in is located in Digicrafts/2DEffectsCreator.
 
 ![](images/1_1.png) 
 
-3. You can find examples in the folder Digicrafts/2DEffectsShaderEditor/Examples.
+3. You can find examples in the folder Digicrafts/2DEffectsCreator/Examples.
 
 ![](images/1_2.png)
 
@@ -12,7 +12,7 @@
 
 ![](images/1_3.png)
 
-5. Open **2D Effects Shader Editor** from menu Window>2D Shader Editor.
+5. Open **2D Effects Creator** from menu Window>2D Shader Editor.
 
 ![](images/1_4.png)
 

@@ -1,3 +1,53 @@
+What’s News in version 1.2.5
+============================
+
+**[New Features]**
+- Change name to **2D Effects Creator** and new "look & feel".
+- Camera Effects Helper: Script to add camera effect with created shader effect.
+- [New Node] FlowMap Node. Create animation effect using a flow map
+- [New Node] FlowMap UV Node. Same as FlowMap Node but output UV which can use with procedural texture.
+- [New Node] Vertex Color. Get the vertex colors.
+- [New Node] Color to UV
+- [New Node] Default UV Color
+- [New Node] 4 Colors Gradient
+- [Node Update] Gradient Node. Add new fill type, Angle.
+- [Node Update] Gradient Node. Add new smoothing option
+- [Node Update] Gradient Node. Add new port ‘ratio’ output a float to indicate the value of gradient.
+- [Node Update] Color Blend Node. Add premultiplied alpha option
+
+
+**[Bug Fix]**
+- Preview in node not clipped when outside canvas
+- Add Enable/Disable tint color in Shader Output Node
+- All Distort Effects node, add separate RGBA output
+- Fix DecodeColor Node output always return r channel
+- When click on canvas with shift key or space key, selected node will deselected.
+
+
+**[New Examples]**
+- Fire (Procedural realistic fire)
+- 2D water flow using flowmap
+- Under Water Camera Effect 
+- Old Video Camera Effect 
+
+
+
+What’s News in version 1.1.3
+============================
+
+
+**[Improvements]**
+- Optimise shader code for normal sprite shader
+- Update examples for optimise shader code
+- Add “Invert” option in ColorMask Node
+
+
+**[Bug Fix]**
+- “Material doesn't have a texture property '_MainTex’” error when using a shader with UI without Texture input node
+- Create new 2D Effect Shader from menu, rename the file, default connection will be broken.
+
+
+
 What’s News in version 1.1.2
 ====
 

@@ -1,6 +1,6 @@
-You can open the **2D Shader Editor** from menu _"window>2DFX Shader Editor"_. The ******2D Shader Editor****** only work when you select a 2D effect shader.
+You can open the **2D Effects Creator** from menu _"window>2D Effects Creator"_. The ******2D Effects Creator****** only work when you select a 2D effect shader.
 
-**Shader Editor**
+**Creator Window**
 
 ![](images/interface1.png)
 
